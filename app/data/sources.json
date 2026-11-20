@@ -1,0 +1,920 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "read": "2026-11-20",
+ "note": "Every entry was confirmed present in the web search index on 2026-11-20; pages were not fetched directly (sandbox rule). Official trophy names/descriptions/grades come from entries 1-2 and the project's starter list. PlayStationTrophies.org and TrueTrophies had no indexed GTA VI launch-guide pages (only pre-release news and old forum threads), so they are honestly omitted.",
+ "sources": [
+  {
+   "n": 1,
+   "site": "Exophase",
+   "title": "Grand Theft Auto VI Trophies (PS5)",
+   "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/",
+   "kind": "official list",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 2,
+   "site": "PSNProfiles",
+   "title": "Grand Theft Auto VI Trophies",
+   "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi",
+   "kind": "official list",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 3,
+   "site": "PowerPyx",
+   "title": "GTA 6 (Grand Theft Auto VI) Trophy Guide & Roadmap",
+   "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+   "kind": "trophy guide",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 4,
+   "site": "PowerPyx",
+   "title": "GTA 6 100% Completion Checklist & Guide",
+   "url": "https://www.powerpyx.com/gta-6-100-completion-checklist-guide/",
+   "kind": "checklist",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 5,
+   "site": "PowerPyx",
+   "title": "GTA 6 All Meditation Spot Locations",
+   "url": "https://www.powerpyx.com/gta-6-all-meditation-spot-locations/",
+   "kind": "collectibles",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 6,
+   "site": "PowerPyx",
+   "title": "GTA 6 All Shooting Range Gold Medal Challenges",
+   "url": "https://www.powerpyx.com/gta-6-all-shooting-range-gold-medal-challenges/",
+   "kind": "activities",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 7,
+   "site": "PowerPyx",
+   "title": "GTA 6 All Top Fun Drone Race Time Trial Locations",
+   "url": "https://www.powerpyx.com/gta-6-all-top-fun-drone-race-time-trial-locations/",
+   "kind": "activities",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 8,
+   "site": "PowerPyx",
+   "title": "GTA 6 Collectible Guide - Progress Database",
+   "url": "https://www.powerpyx.com/gta-6-collectible-guide-progress-database/",
+   "kind": "collectibles",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 9,
+   "site": "OutputLag",
+   "title": "GTA 6 Trophy List: All 55 Trophies and Achievements",
+   "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+   "kind": "trophy list",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 10,
+   "site": "OutputLag",
+   "title": "GTA 6 Walkthrough: Every Main Mission in Order",
+   "url": "https://outputlag.com/guides/gta-6-walkthrough-missions/",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 11,
+   "site": "OutputLag",
+   "title": "GTA 6 Side Missions and Strangers & Freaks List",
+   "url": "https://outputlag.com/guides/gta-6-side-missions-strangers-freaks/",
+   "kind": "side missions",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 12,
+   "site": "OutputLag",
+   "title": "GTA 6 Endings: The Final Choice Explained",
+   "url": "https://outputlag.com/guides/gta-6-endings/",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 13,
+   "site": "OutputLag",
+   "title": "GTA 6 Meditation Spots: All Locations and Trophy",
+   "url": "https://outputlag.com/guides/gta-6-meditation-spots/",
+   "kind": "collectibles",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 14,
+   "site": "OutputLag",
+   "title": "GTA 6 Fishing Guide: Rod, Controls, Spots and Cal",
+   "url": "https://outputlag.com/guides/gta-6-fishing-guide/",
+   "kind": "activities",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 15,
+   "site": "OutputLag",
+   "title": "GTA 6 Activities: Pool, Bowling, Races, Shooting Ranges and More",
+   "url": "https://outputlag.com/guides/gta-6-activities-minigames/",
+   "kind": "activities",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 16,
+   "site": "OutputLag",
+   "title": "GTA 6 The Cartel Heist: Chapter 3 Finale Walkthrough",
+   "url": "https://outputlag.com/guides/gta-6-cartel-heist-mission/",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 17,
+   "site": "KeenGamer",
+   "title": "GTA 6 Trophy Guide & Platinum Roadmap (All 55 Trophies)",
+   "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/",
+   "kind": "trophy guide",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 18,
+   "site": "KeenGamer",
+   "title": "How to Rob Illegal Operations in GTA 6: All 9 Gangs and the Pest Control Trophy",
+   "url": "https://www.keengamer.com/articles/guides/how-to-rob-illegal-operations-in-gta-6-all-9-gangs-and-the-pest-control-trophy/",
+   "kind": "activities",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 19,
+   "site": "eGamers",
+   "title": "GTA 6 Trophy List: All 55 Trophies and Achievements, Plus the Hardest Ones",
+   "url": "https://egamers.io/gta-6-trophy-list-all-55-trophies-and-achievements-plus-the-hardest-ones/",
+   "kind": "trophy list",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 20,
+   "site": "eGamers",
+   "title": "GTA 6 100% Completion Guide: Which Collectibles You Can Skip and the One Trophy You Might Miss",
+   "url": "https://egamers.io/gta-6-100-completion-guide-which-collectibles-you-can-skip-and-the-one-trophy-you-might-miss/",
+   "kind": "checklist",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 21,
+   "site": "eGamers",
+   "title": "GTA 6 stunt guide: all 397 stunts, the Cunning Stunts trophy and the 100% target",
+   "url": "https://egamers.io/gta-6-stunt-guide-all-397-stunts-the-cunning-stunts-trophy-and-the-100-target/",
+   "kind": "activities",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 22,
+   "site": "eGamers",
+   "title": "Every GTA 6 story mission in order: the full chapter-by-chapter list",
+   "url": "https://egamers.io/every-gta-6-story-mission-in-order-the-full-chapter-by-chapter-list/",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 23,
+   "site": "GTA-Zone",
+   "title": "GTA 6 Easter Eggs: Bigfoot, UFO, Dexter and Every Location",
+   "url": "https://gta-zone.com/news/gta-6-easter-eggs/",
+   "kind": "collectibles",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 24,
+   "site": "GTA Vibes",
+   "title": "GTA 6 Stunts Guide: All 397 Stunts and Cunning Stunts",
+   "url": "https://www.gtavibes.com/guides/gta-6-stunts-guide-stunt-jumps-cunning-stunts-trophy",
+   "kind": "activities",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 25,
+   "site": "TechWiser",
+   "title": "Will GTA 6 Cheats Disable Trophies and Achievements Feature?",
+   "url": "https://techwiser.com/gta-6-cheats-disable-trophies/",
+   "kind": "guide",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 26,
+   "site": "TechWiser",
+   "title": "GTA 6's Platinum Trophy or 100% Completion Will Take an Insane 200-Hour Grind",
+   "url": "https://techwiser.com/gta-6-platinum-trophy-harder-than-rdr-2/",
+   "kind": "guide",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 27,
+   "site": "TechWiser",
+   "title": "GTA 6 Racing Activities - All 39 Race Locations and Payouts",
+   "url": "https://techwiser.com/gta-6-racing-locations/",
+   "kind": "activities",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 28,
+   "site": "Game8",
+   "title": "GTA 6 (Grand Theft Auto 6) Walkthrough & Guides Wiki",
+   "url": "https://game8.co/games/GTA-6",
+   "kind": "guide hub",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 29,
+   "site": "Game-Checklists",
+   "title": "GTA 6 Missables: Everything You Can Miss",
+   "url": "https://game-checklists.com/gta6/guides/missables/",
+   "kind": "missables",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 30,
+   "site": "Push Square",
+   "title": "GTA 6: Trophy Guide & Roadmap (WIP)",
+   "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap",
+   "kind": "trophy guide",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 31,
+   "site": "IGN",
+   "title": "GTA 6 100 Percent Guide",
+   "url": "https://www.ign.com/wikis/gta-6/GTA_6_100_Percent_Guide",
+   "kind": "checklist",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 32,
+   "site": "IGN",
+   "title": "Gone Fishing Walkthrough - GTA 6 Guide",
+   "url": "https://www.ign.com/wikis/gta-6/Gone_Fishing_Walkthrough",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 33,
+   "site": "IGN",
+   "title": "Stunt Jumps - GTA 6 Guide",
+   "url": "https://www.ign.com/wikis/gta-6/Stunt_Jumps",
+   "kind": "activities",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 34,
+   "site": "IGN",
+   "title": "Under the Bridge - GTA 6 Guide",
+   "url": "https://www.ign.com/wikis/gta-6/Under_the_Bridge",
+   "kind": "activities",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 35,
+   "site": "IGN",
+   "title": "Collectible Cards - GTA 6 Guide",
+   "url": "https://www.ign.com/wikis/gta-6/Collectible_Cards",
+   "kind": "collectibles",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 36,
+   "site": "IGN",
+   "title": "Top Fun Drones - GTA 6 Guide",
+   "url": "https://www.ign.com/wikis/gta-6/Top_Fun_Drones",
+   "kind": "activities",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 37,
+   "site": "IGN",
+   "title": "Challenges - GTA 6 Guide",
+   "url": "https://www.ign.com/wikis/gta-6/Challenges",
+   "kind": "activities",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 38,
+   "site": "GTABase",
+   "title": "GTA 6 Trophy Guide & Achievements List (PS5 & Xbox Series X|S)",
+   "url": "https://www.gtabase.com/gta-6/achievements",
+   "kind": "trophy list",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 39,
+   "site": "GTABase",
+   "title": "GTA 6 Strangers & Freaks: All Side Missions List & Guide",
+   "url": "https://www.gtabase.com/gta-6/strangers-missions/",
+   "kind": "side missions",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 40,
+   "site": "GTABase",
+   "title": "Spin On This | GTA 6 Strangers & Freaks Gold Medal Guide",
+   "url": "https://www.gtabase.com/gta-6/strangers/spin-on-this",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 41,
+   "site": "GTABase",
+   "title": "Catch a Bigger Fish | GTA 6 Mission Guide & Walkthrough",
+   "url": "https://www.gtabase.com/gta-6/strangers/catch-a-bigger-fish",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 42,
+   "site": "GTABase",
+   "title": "GTA 6 100% Completion Guide & Interactive Checklist",
+   "url": "https://www.gtabase.com/articles/gta-6/gta-6-100-completion-guide-interactive-checklist",
+   "kind": "checklist",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 43,
+   "site": "games.gg",
+   "title": "GTA 6 Guide: All Meditation Spot Locations",
+   "url": "https://games.gg/grand-theft-auto-vi/guides/gta-6-all-meditation-spot-locations/",
+   "kind": "collectibles",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 44,
+   "site": "GTA6 Field Guide",
+   "title": "GTA 6 trophy list: all 55 PS5 trophies",
+   "url": "https://gta6fieldguide.com/trophies",
+   "kind": "trophy list",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 45,
+   "site": "NeuralBoost",
+   "title": "GTA 6 Collectible Cards: All 18 Card Sets Explained",
+   "url": "https://neuralboost.gg/blog/gta-6-collectible-cards-all-card-sets-explained",
+   "kind": "collectibles",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 46,
+   "site": "NeuralBoost",
+   "title": "GTA 6 Strangers and Freaks: Every Side Mission",
+   "url": "https://neuralboost.gg/blog/gta-6-strangers-and-freaks-every-side-mission",
+   "kind": "side missions",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 47,
+   "site": "NeuralBoost",
+   "title": "GTA 6 Stats: How to Raise Health, Stamina and Focus",
+   "url": "https://neuralboost.gg/blog/gta-6-stats-how-to-raise-health-stamina-focus-and-heal",
+   "kind": "guide",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 48,
+   "site": "GTAFinder",
+   "title": "GTA 6 Stunt Jumps and 300-Stunt Guide",
+   "url": "https://www.gtafinder.com/gta-6/guides/stunts",
+   "kind": "activities",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 49,
+   "site": "SweatSchool",
+   "title": "GTA 6 Drone Races: All 14 Top Fun Locations and 42 Time Trials",
+   "url": "https://sweatschool.app/gta-6/gameplay/drone-races/",
+   "kind": "activities",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 50,
+   "site": "GTACulture",
+   "title": "GTA 6 Treasure Diving: How to Unlock Kenton's Shipwreck Dives",
+   "url": "https://gtaculture.com/guides/gta-6-treasure-diving",
+   "kind": "side missions",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 51,
+   "site": "GTA6Locations",
+   "title": "GTA 6 Shooting Range Locations: Griffin & Rodgers Ranch (All 42 Gold Medals)",
+   "url": "https://gta6locations.com/gta-6-shooting-ranges/",
+   "kind": "activities",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 52,
+   "site": "FinalBoss",
+   "title": "How to Fish in GTA 6: Controls and Cal's 2 lb Parrotfish Challenge",
+   "url": "https://finalboss.io/gta-6-fishing-guide",
+   "kind": "activities",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 53,
+   "site": "FinalBoss",
+   "title": "GTA 6 Andy Questline Walkthrough: Cellerica and Road to Rehabilitation",
+   "url": "https://finalboss.io/gta-6-andy-cellerica",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 54,
+   "site": "FinalBoss",
+   "title": "GTA 6 Kitty Litter Lab Locations and Spin On This Walkthrough",
+   "url": "https://finalboss.io/gta-6-kitty-litter-labs",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 55,
+   "site": "FinalBoss",
+   "title": "GTA 6 Meditation Locations: All 10 Spots and the Chapter 1 Missable",
+   "url": "https://finalboss.io/gta-6-meditation-spots",
+   "kind": "collectibles",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 56,
+   "site": "FinalBoss",
+   "title": "GTA 6 Chapter 3 Walkthrough: Vice City and the Cartel Heist",
+   "url": "https://finalboss.io/gta-6-chapter-3-walkthrough",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 57,
+   "site": "TheGamesWiki",
+   "title": "Spin on This - GTA 6 Wiki",
+   "url": "https://thegameswiki.com/gta6/wiki/spin-on-this",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 58,
+   "site": "TheGamesWiki",
+   "title": "Hometown Heroes - GTA 6 Wiki",
+   "url": "https://thegameswiki.com/gta6/wiki/hometown-heroes",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 59,
+   "site": "GameMapa",
+   "title": "GTA 6 Meditation Spots: 10 Locations, 18 Sessions, One Missable",
+   "url": "https://gamemapa.com/en/gta-6/guides/gta-6-meditation-spots-all-locations/",
+   "kind": "collectibles",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 60,
+   "site": "GameMapa",
+   "title": "All 55 GTA 6 Trophies: Full List, Gamerscore and Platinum Roadmap",
+   "url": "https://gamemapa.com/en/gta-6/guides/gta-6-trophy-achievement-list/",
+   "kind": "trophy list",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 61,
+   "site": "Promptowy",
+   "title": "GTA 6 Meditation Spots: Trophy Guide",
+   "url": "https://promptowy.com/en/gta-6/gta-6-meditation-spots/",
+   "kind": "collectibles",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 62,
+   "site": "Promptowy",
+   "title": "GTA 6 Billy Missions Guide: Unlocks & Trophy",
+   "url": "https://promptowy.com/en/gta-6/gta-6-billy-missions-guide/",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 63,
+   "site": "ShowGamer",
+   "title": "GTA 6 All 130 Stunt Jump Locations - Complete Stunt and Trophy Guide",
+   "url": "https://showgamer.com/en/guides/7821-vse-kaskaderskie-pryzhki-v-gta-6-gde-nayti-130-tramplinov-na-karte",
+   "kind": "activities",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 64,
+   "site": "ShowGamer",
+   "title": "GTA 6 Puff Puff Pass Walkthrough - Save Andy and Unlock Her Trophy",
+   "url": "https://showgamer.com/en/guides/7846-prohozhdenie-gta-6-zatyanis-i-pereday-final-istorii-endi-i-sesilii",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 65,
+   "site": "SixthStar",
+   "title": "GTA 6 Activities: Fishing, Hunting, Races, Stunts and What 100% Needs",
+   "url": "https://sixthstar.net/guides/gta-6-activities/",
+   "kind": "activities",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 66,
+   "site": "HeistAtlas",
+   "title": "Kenton's Treasures in GTA 6: how many, 100% and rewards",
+   "url": "https://heistatlas.com/en/database/collectibles/kentons-treasures/",
+   "kind": "collectibles",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 67,
+   "site": "HeistAtlas",
+   "title": "GTA 6 The Cartel Heist mission walkthrough",
+   "url": "https://heistatlas.com/en/database/missions/the-cartel-heist/",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 68,
+   "site": "HeistAtlas",
+   "title": "Road to Rehabilitation trophy in GTA 6: how to unlock",
+   "url": "https://heistatlas.com/en/database/achievements/road-to-rehabilitation/",
+   "kind": "trophy page",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 69,
+   "site": "6Charts",
+   "title": "GTA 6 Trophy Guide: All 55 Trophies & Achievements",
+   "url": "https://6charts.com/gta-6-trophies",
+   "kind": "trophy guide",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 70,
+   "site": "6Charts",
+   "title": "Spin On This! Trophy in GTA 6: How to Unlock It",
+   "url": "https://6charts.com/gta-6-trophies/spin-on-this",
+   "kind": "trophy page",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 71,
+   "site": "GTA6Intel",
+   "title": "Stick Fiddler: GTA 6 Trophy & achievement",
+   "url": "https://gta6intel.com/trophies/stick-fiddler",
+   "kind": "trophy page",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 72,
+   "site": "GTA6Intel",
+   "title": "Earn Cash, Not Kudos: GTA 6 Trophy & achievement",
+   "url": "https://gta6intel.com/trophies/earn-cash-not-kudos",
+   "kind": "trophy page",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 73,
+   "site": "GTA Wiki",
+   "title": "Missions in Grand Theft Auto VI",
+   "url": "https://gta.wiki/w/Missions_in_GTA_VI",
+   "kind": "wiki",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 74,
+   "site": "GTA Wiki",
+   "title": "Baited My Tackle - GTA Wiki",
+   "url": "https://gta.wiki/w/Baited_My_Tackle",
+   "kind": "wiki",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 75,
+   "site": "Allfound",
+   "title": "GTA 6 secret trophies: all 28 hidden trophies (spoilers)",
+   "url": "https://allfound.app/gta-6/secret-trophies/",
+   "kind": "trophy list",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 76,
+   "site": "RankedBoost",
+   "title": "GTA 6 Trophy List and Achievements",
+   "url": "https://rankedboost.com/gta/trophies/",
+   "kind": "trophy list",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 77,
+   "site": "Leonida-Intel",
+   "title": "GTA 6 Trophy List: All 55 Trophies and Platinum Roadmap",
+   "url": "https://leonida-intel.com/guides/gta-6-trophy-list/",
+   "kind": "trophy list",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 78,
+   "site": "Leonida-Intel",
+   "title": "GTA 6 Mission List: Every Story Mission in Order",
+   "url": "https://leonida-intel.com/guides/gta-6-mission-list/",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 79,
+   "site": "Bloxodes",
+   "title": "GTA 6 Missable Trophies and Missions You Can Lose for Good",
+   "url": "https://bloxodes.com/articles/gta-6-missable-trophies-and-missions",
+   "kind": "missables",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 80,
+   "site": "KingyWiki",
+   "title": "Where is Lucia's Chapter 1 balcony meditation in GTA 6?",
+   "url": "https://kingy.wiki/games/gta6/chapter-1-meditation",
+   "kind": "collectibles",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 81,
+   "site": "VGC",
+   "title": "GTA 6 Gone Fishing Mission Walkthrough",
+   "url": "https://www.videogameschronicle.com/guide/gta-6-gone-fishing-mission-walkthrough/",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 82,
+   "site": "Eurogamer",
+   "title": "GTA 6 Gone Fishing walkthrough",
+   "url": "https://www.eurogamer.net/gta-6-gone-fishing-walkthrough",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 83,
+   "site": "PC Gamer",
+   "title": "Here's every GTA 6 mission and chapter",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mission-list/",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 84,
+   "site": "MyGTA",
+   "title": "GTA 6 Missions List: Every Story Mission in Order",
+   "url": "https://mygta.co/guides/gta-6-missions-list/",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 85,
+   "site": "MyGTA",
+   "title": "The Cartel Heist: GTA 6 Mission Walkthrough",
+   "url": "https://mygta.co/wiki/missions/the-cartel-heist/",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 86,
+   "site": "MyGTA",
+   "title": "GTA 6 Strangers and Freaks: Every Side Questline",
+   "url": "https://mygta.co/guides/gta-6-strangers-and-freaks/",
+   "kind": "side missions",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 87,
+   "site": "Space4Games",
+   "title": "GTA 6: All 5 Chapters and Missions",
+   "url": "https://space4games.com/en/games-en/gta-6-all-missions-chapters-story-progress/",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 88,
+   "site": "TalkEsport",
+   "title": "All GTA 6 Chapters and Missions: Full List (93 Missions)",
+   "url": "https://www.talkesport.com/gta-6/all-gta-6-chapters-missions-list/",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 89,
+   "site": "SixShore",
+   "title": "GTA 6 100% Completion Checklist: All 35 Requirements",
+   "url": "https://sixshore.com/gta-6/guides/100-percent-completion/",
+   "kind": "checklist",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 90,
+   "site": "GTA6Heists",
+   "title": "GTA 6 Cartel Heist Walkthrough: All 8 Missions, $150,000",
+   "url": "https://www.gta6heists.com/heists/cartel-heist",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 91,
+   "site": "PixelForgeGuides",
+   "title": "GTA 6 Review & Platinum Trophy Guide: All 55 Trophies + Roadmap",
+   "url": "https://www.pixelforgeguides.com/gta-6.html",
+   "kind": "trophy guide",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 92,
+   "site": "GuiasGTA6",
+   "title": "GTA 6 Tyrone missions: Kitty Litter labs and Spin On This",
+   "url": "https://guiasgta6.com/en/guides/gta-6-strangers-and-freaks-tyrone-missions/",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 93,
+   "site": "Indiatimes",
+   "title": "GTA 6 Stranger Missions Guide: All 7 Confirmed Characters, Side Activities and Achievements Explained",
+   "url": "https://www.indiatimes.com/game-guides/gta-6-stranger-missions-guide-all-7-confirmed-characters-side-activities-and-achievements-explained/articleshow/135967097.html",
+   "kind": "side missions",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 94,
+   "site": "GTA.guide",
+   "title": "All GTA 6 trophies and achievements",
+   "url": "https://gta.guide/gta-6/guides/trophies-and-achievements",
+   "kind": "trophy list",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 95,
+   "site": "CollectiblesNews",
+   "title": "GTA VI Includes 480 Collectible Trading Cards Across 18 In-Game Sets",
+   "url": "https://collectiblesnews.com/2026/11/18/gta-vi-includes-480-collectible-trading-cards-across-18-in-game-sets/",
+   "kind": "collectibles",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 96,
+   "site": "HowToVideoGame",
+   "title": "GTA 6: How to Fish",
+   "url": "https://howtovideogame.com/gta-6-fishing/",
+   "kind": "activities",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 97,
+   "site": "Reddit r/Trophies",
+   "title": "[GTA 6] meditation spot (launch-week tester thread)",
+   "url": "https://www.reddit.com/r/Trophies/comments/1y0fb45/gta_6_meditation_spot/",
+   "kind": "community report",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 98,
+   "site": "NeuralBoost",
+   "title": "GTA 6 Missables: What You Cannot Go Back For",
+   "url": "https://neuralboost.gg/blog/gta-6-missables-what-you-cannot-go-back-for",
+   "kind": "missables",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 99,
+   "site": "TheGamesWiki",
+   "title": "Meditation Spots - GTA 6 Wiki",
+   "url": "https://thegameswiki.com/gta6/wiki/meditation-spots",
+   "kind": "collectibles",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 100,
+   "site": "HowToVideoGame",
+   "title": "GTA 6: Where to Find Meditation Spots",
+   "url": "https://howtovideogame.com/gta-6-meditation-spots/",
+   "kind": "collectibles",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 101,
+   "site": "GTABase",
+   "title": "Breakfast Run | GTA 6 Mission Guide & Walkthrough",
+   "url": "https://www.gtabase.com/gta-6/missions/breakfast-run",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 102,
+   "site": "GTACulture",
+   "title": "GTA 6 Breakfast Run Mission Walkthrough: Waffles and Stick-Ups",
+   "url": "https://gtaculture.com/missions/gta-6-breakfast-run-mission",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 103,
+   "site": "GTA6 Guide",
+   "title": "Breakfast Run - GTA 6 (English edition)",
+   "url": "https://gta6guide.fr/en/gta-6/missions/breakfast-run",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 104,
+   "site": "HeistAtlas",
+   "title": "Trust trophy in GTA 6: how to unlock",
+   "url": "https://heistatlas.com/en/database/achievements/trust/",
+   "kind": "trophy page",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 105,
+   "site": "Promptowy",
+   "title": "GTA 6 Headliners Walkthrough: Find Real Dimez",
+   "url": "https://promptowy.com/en/gta-6/gta-6-headliners-walkthrough/",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 106,
+   "site": "MyGTA",
+   "title": "Headliners Mission in GTA 6",
+   "url": "https://mygta.co/wiki/missions/headliners/",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 107,
+   "site": "GTA6 Field Guide",
+   "title": "DWNFALL GTA 6 trophy",
+   "url": "https://gta6fieldguide.com/trophies/dwnfall",
+   "kind": "trophy page",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 108,
+   "site": "GTA6Heists",
+   "title": "GTA 6 VCIA Takedown: Airport Heist Walkthrough, $250,000",
+   "url": "https://www.gta6heists.com/heists/vcia-takedown",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 109,
+   "site": "Promptowy",
+   "title": "GTA 6 VCIA Takedown Guide",
+   "url": "https://promptowy.com/en/gta-6/gta-6-vcia-takedown-walkthrough/",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 110,
+   "site": "HappyGamer",
+   "title": "GTA 6 VCIA Takedown: Every Setup Mission in Order Before the Airport Heist",
+   "url": "https://happygamer.com/gta-6-vcia-takedown-setup-missions-176336/",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 111,
+   "site": "FinalBoss",
+   "title": "GTA 6 Chapter 5 Walkthrough: Operation Savage Glory and the Ending",
+   "url": "https://finalboss.io/gta-6-chapter-5-walkthrough",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 112,
+   "site": "Promptowy",
+   "title": "GTA 6 Operation Savage Glory Guide",
+   "url": "https://promptowy.com/en/gta-6/gta-6-operation-savage-glory-cargo-guide/",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 113,
+   "site": "tech4gamers",
+   "title": "Operation Savage Glory | GTA 6 Wiki",
+   "url": "https://gta.tech4gamers.com/gta-6/missions/operation-savage-glory/",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  },
+  {
+   "n": 114,
+   "site": "GTA6 Guide",
+   "title": "Headliners - GTA 6 (English edition)",
+   "url": "https://gta6guide.fr/en/gta-6/missions/headliners",
+   "kind": "walkthrough",
+   "read": "2026-11-20"
+  }
+ ]
+}

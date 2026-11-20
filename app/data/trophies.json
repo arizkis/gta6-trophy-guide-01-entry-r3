@@ -1,0 +1,1734 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "list": "the official 55 trophies, 2026-11-18",
+ "note": "Part A: trophies 1-28. Official name/description/grade reproduced verbatim from the starter list (sources 1-2). Part B (29-55) follows. hidden subtotal 1-28: 17 of the list's 28 hidden trophies.",
+ "trophies": [
+  {
+   "id": 1,
+   "name": "Vice Got a Price!",
+   "description": "Congratulations! You're a Leonida Legend.",
+   "grade": "platinum",
+   "hidden": false,
+   "kind": "Completion",
+   "psnTarget": null,
+   "psnPercent": 0.0,
+   "summary": "The platinum: earn every other trophy on the list, including 100% completion.",
+   "steps": [
+    {
+     "text": "The official requirement is simple to state: earn the other 54 trophies. Nothing else unlocks this one.",
+     "cites": [
+      1,
+      2,
+      9
+     ]
+    },
+    {
+     "text": "That includes A Long Road, the gold for 100% completion - Leonida-Intel confirms the platinum asks for everything else, 100% included.",
+     "cites": [
+      77,
+      3
+     ]
+    },
+    {
+     "text": "Plan the run in stages: story first, the Chapter 1 meditation window early, then activities and collectibles, then the grind. PowerPyx, KeenGamer and Push Square all publish roadmaps in that shape.",
+     "cites": [
+      3,
+      17,
+      30
+     ]
+    },
+    {
+     "text": "Budget for a long haul - TechWiser estimates roughly 200 hours for the platinum/100% - and check whether cheats disable trophies before using any; TechWiser investigates that too.",
+     "cites": [
+      26,
+      25
+     ]
+    },
+    {
+     "text": "Watch the one permanently missable trophy, Positive Mental Attitude: its Chapter 1 meditation window closes early in the story.",
+     "cites": [
+      29,
+      79
+     ]
+    },
+    {
+     "text": "The list is 1 platinum, 2 gold, 6 silver and 46 bronze, and 28 of the 55 are hidden, so the in-game list will not show you what you are missing - keep a full tracker like this one.",
+     "cites": [
+      44,
+      19,
+      76,
+      38
+     ]
+    },
+    {
+     "text": "The platinum pops automatically once the 54th trophy lands; there is no separate claim step.",
+     "cites": [
+      1,
+      2,
+      3
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 2,
+   "name": "Just Like Paradise",
+   "description": "Complete Gone Fishing.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Story",
+   "psnTarget": null,
+   "psnPercent": 97.03,
+   "summary": "Complete Gone Fishing, the first playable mission, and the story is underway.",
+   "steps": [
+    {
+     "text": "Requirement: complete the mission Gone Fishing.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "Start a new game and play through the opening; Gone Fishing is Jason's first playable mission, introduced by the cutscene that opens the Just Like Paradise section.",
+     "cites": [
+      81,
+      32
+     ]
+    },
+    {
+     "text": "The mission opens with Jason and Cal hanging out on a fishing boat, waiting for a call; the playable section follows from there.",
+     "cites": [
+      81
+     ]
+    },
+    {
+     "text": "You will be fishing up illicit substances and helping rescue your friend Donnie when things go sideways - follow the on-screen objectives to the end.",
+     "cites": [
+      82
+     ]
+    },
+    {
+     "text": "The trophy unlocks the moment the mission completes; with a 97%+ unlock rate it is effectively the game's tutorial trophy.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "It is a hidden trophy: the name and description stay masked until it pops.",
+     "cites": [
+      75,
+      69
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 3,
+   "name": "Paradise Lost",
+   "description": "Complete Chapter 1.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Story",
+   "psnTarget": null,
+   "psnPercent": 2.46,
+   "summary": "Finish the chapter the official list calls Chapter 1 - the Paradise Lost chapter.",
+   "steps": [
+    {
+     "text": "Requirement: complete Chapter 1 as numbered by the official trophy list.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "Play through every main mission of the Paradise Lost chapter; the trophy triggers on chapter completion, not on any single mission.",
+     "cites": [
+      1,
+      2,
+      10
+     ]
+    },
+    {
+     "text": "Chapter numbering differs between sources - the official list calls Paradise Lost Chapter 1, while guides that count the opening Just Like Paradise section as Chapter 1 label it Chapter 2. It is the same chapter either way; see the note below.",
+     "cites": [
+      1,
+      87,
+      88
+     ]
+    },
+    {
+     "text": "No side content is required for this trophy - stay on the critical path.",
+     "cites": [
+      10,
+      22
+     ]
+    },
+    {
+     "text": "GTA 6 has no gold-medal mission objectives, so plain completion is enough, and mission replay exists if you need to revisit anything.",
+     "cites": [
+      78
+     ]
+    },
+    {
+     "text": "Hidden trophy: masked until earned.",
+     "cites": [
+      75,
+      69
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": [
+    {
+     "type": "note",
+     "title": "Two chapter-numbering schemes",
+     "text": "The official list numbers Paradise Lost as Chapter 1, T**s Ass Drug Money as Chapter 2, Vice City, Baby! as Chapter 3 and Top Of The World, Ma as Chapter 4. Several launch guides (Space4Games, TalkEsport) instead count the opening Just Like Paradise section as Chapter 1, shifting every later chapter by one. Both schemes point at the same content; this guide follows the official numbering.",
+     "cites": [
+      1,
+      2,
+      87,
+      88
+     ]
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "T**s Ass Drug Money",
+   "description": "Complete Chapter 2.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Story",
+   "psnTarget": null,
+   "psnPercent": 0.25,
+   "summary": "Complete the drug-money chapter - Chapter 2 in the official list's numbering.",
+   "steps": [
+    {
+     "text": "Requirement: complete Chapter 2 per the official list.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "This is the chapter whose title the official list prints as T**s Ass Drug Money; guides that count Just Like Paradise as Chapter 1 call it Chapter 3. Same content, different label.",
+     "cites": [
+      1,
+      87
+     ]
+    },
+    {
+     "text": "Work through the chapter's main missions in order; the ordered lists from OutputLag, eGamers, MyGTA and the GTA Wiki track the full sequence.",
+     "cites": [
+      10,
+      22,
+      84,
+      73
+     ]
+    },
+    {
+     "text": "The trophy pops when the chapter ends - no optional missions, medals or collectibles are needed.",
+     "cites": [
+      1,
+      2,
+      78
+     ]
+    },
+    {
+     "text": "Story-chapter trophies sit on the critical path; HeistAtlas notes the same unmissable pattern for the story mission trophies.",
+     "cites": [
+      104
+     ]
+    },
+    {
+     "text": "Hidden trophy: masked until earned.",
+     "cites": [
+      75,
+      69
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 5,
+   "name": "Vice City, Baby!",
+   "description": "Complete Chapter 3.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Story",
+   "psnTarget": null,
+   "psnPercent": 0.02,
+   "summary": "Complete the Vice City chapter - Chapter 3 in the official numbering - capped by The Cartel Heist.",
+   "steps": [
+    {
+     "text": "Requirement: complete Chapter 3 per the official list - the chapter that moves the story to Vice City.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "Early missions include Welcome to Vice City (meet Dre'Quan, then enter the Bayside apartment) and Dealer's Choice (finish the handoff and drive Dre'Quan onward).",
+     "cites": [
+      56
+     ]
+    },
+    {
+     "text": "The chapter builds to The Cartel Heist, which OutputLag labels the chapter finale; completing it also earns Break the Bank.",
+     "cites": [
+      16,
+      85
+     ]
+    },
+    {
+     "text": "Follow the main mission order; no side content is required for the chapter trophy.",
+     "cites": [
+      10,
+      22
+     ]
+    },
+    {
+     "text": "Guides that count Just Like Paradise as Chapter 1 call this Chapter 4 - the official list's Chapter 3 is the same content.",
+     "cites": [
+      1,
+      87,
+      88
+     ]
+    },
+    {
+     "text": "Hidden trophy: masked until earned.",
+     "cites": [
+      75,
+      69
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 6,
+   "name": "Top Of The World, Ma",
+   "description": "Complete Chapter 4.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Story",
+   "psnTarget": null,
+   "psnPercent": 0.02,
+   "summary": "Complete the final chapter - Chapter 4 in the official numbering.",
+   "steps": [
+    {
+     "text": "Requirement: complete Chapter 4 per the official list - the story's final chapter.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "Space4Games counts seven missions in this chapter; under its shifted numbering it labels the chapter Chapter 5.",
+     "cites": [
+      87
+     ]
+    },
+    {
+     "text": "FinalBoss's walkthrough of the final chapter runs from Giorgio's first job through Operation Savage Glory and Protective Custody to The End of the Road.",
+     "cites": [
+      111
+     ]
+    },
+    {
+     "text": "Complete every main mission in the chapter; the trophy triggers at chapter completion.",
+     "cites": [
+      1,
+      2,
+      10
+     ]
+    },
+    {
+     "text": "Snow Storm (Operation Savage Glory) and the final-mission gold both land inside this stretch - see those entries.",
+     "cites": [
+      111,
+      112
+     ]
+    },
+    {
+     "text": "Hidden trophy: masked until earned.",
+     "cites": [
+      75,
+      69
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 7,
+   "name": "You Gotta Know When to Get Off",
+   "description": "Complete the final mission.",
+   "grade": "gold",
+   "hidden": true,
+   "kind": "Story",
+   "psnTarget": null,
+   "psnPercent": 0.02,
+   "summary": "Complete the final mission - the story's last beat, and the list's second gold.",
+   "steps": [
+    {
+     "text": "Requirement: complete the final mission.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "The final chapter closes with The End of the Road, the last mission in FinalBoss's chapter walkthrough.",
+     "cites": [
+      111
+     ]
+    },
+    {
+     "text": "The ending involves a final choice; OutputLag publishes a spoiler-heavy explanation of the outcomes. This entry deliberately does not describe them - see the spoiler note.",
+     "cites": [
+      12
+     ]
+    },
+    {
+     "text": "No medal or difficulty condition is attached - completion alone earns the gold.",
+     "cites": [
+      1,
+      2,
+      78
+     ]
+    },
+    {
+     "text": "It is hidden, like every story trophy on the list.",
+     "cites": [
+      75,
+      69
+     ]
+    },
+    {
+     "text": "After it pops the story is done and the 100% cleanup begins - the 100% checklist unlocks after the story.",
+     "cites": [
+      89,
+      3
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": [
+    {
+     "type": "spoiler",
+     "title": "Ending choice ahead",
+     "text": "The final mission includes a choice that changes the ending. OutputLag's endings guide explains the outcomes in full; we keep the details out of this entry so the spoiler setting stays meaningful.",
+     "cites": [
+      12
+     ]
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "name": "Trust",
+   "description": "Complete Breakfast Run.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Story",
+   "psnTarget": null,
+   "psnPercent": 0.69,
+   "summary": "Complete Breakfast Run - Lucia's waffle-run robbery spree.",
+   "steps": [
+    {
+     "text": "Requirement: complete the main mission Breakfast Run.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "Breakfast Run is mission #42 in GTABase's chronological order, played as Lucia Caminos.",
+     "cites": [
+      101
+     ]
+    },
+    {
+     "text": "The setup: Jason and Lucia head out for waffles at Hank's, and breakfast turns into a run of hold-ups around town.",
+     "cites": [
+      102
+     ]
+    },
+    {
+     "text": "Objectives: rob Hank's Waffles, then the liquor store and the thrift store, then escape the police.",
+     "cites": [
+      103,
+      102
+     ]
+    },
+    {
+     "text": "The trophy pops on mission completion; as a critical-path mission it cannot be permanently missed.",
+     "cites": [
+      104
+     ]
+    },
+    {
+     "text": "Hidden trophy: masked until earned.",
+     "cites": [
+      75,
+      69
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 9,
+   "name": "Break the Bank",
+   "description": "Complete The Cartel Heist.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Story",
+   "psnTarget": null,
+   "psnPercent": 0.02,
+   "summary": "Complete The Cartel Heist - the bank job that caps the Vice City chapter.",
+   "steps": [
+    {
+     "text": "Requirement: complete The Cartel Heist.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "The heist strand opens when Raul calls the crew to the planning room in Stockyard; afterwards you ride out in the black car with Lucia and Nicole.",
+     "cites": [
+      67
+     ]
+    },
+    {
+     "text": "GTA6Heists counts eight missions in the heist strand, with a $150,000 take.",
+     "cites": [
+      90
+     ]
+    },
+    {
+     "text": "The finale opens with the cell-tower detonation: drive toward the towers and blow them on cue.",
+     "cites": [
+      16,
+      85
+     ]
+    },
+    {
+     "text": "At the bank, wait for Karim's signal, knock out a guard and take the elevator down.",
+     "cites": [
+      85
+     ]
+    },
+    {
+     "text": "The vault uses two timed minigames - drill the steel door (both drill bars move this time), then steer a camera up the inner wall to hook the failsafe cable through a sharp right turn.",
+     "cites": [
+      90
+     ]
+    },
+    {
+     "text": "Escape with the take and the trophy pops; as the chapter finale, it also lands Vice City, Baby!.",
+     "cites": [
+      16,
+      1
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 10,
+   "name": "Family Matters",
+   "description": "Complete Child's Play.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Story",
+   "psnTarget": null,
+   "psnPercent": 0.02,
+   "summary": "Complete Child's Play, a late-story mission played as both protagonists.",
+   "steps": [
+    {
+     "text": "Requirement: complete the main mission Child's Play.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "MyGTA's mission order places Child's Play at #101, credited to Jason and Lucia - deep into the story.",
+     "cites": [
+      84
+     ]
+    },
+    {
+     "text": "Follow the main mission sequence; the ordered lists from MyGTA, eGamers and OutputLag show what comes before it.",
+     "cites": [
+      84,
+      22,
+      10
+     ]
+    },
+    {
+     "text": "No extra conditions are listed: completion alone earns the bronze.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "GTA 6 has no gold-medal objectives and offers mission replay, so a botched attempt is never a dead end.",
+     "cites": [
+      78
+     ]
+    },
+    {
+     "text": "Hidden trophy: masked until earned.",
+     "cites": [
+      75,
+      69
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 11,
+   "name": "DWNFALL",
+   "description": "Complete Headliners.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Story",
+   "psnTarget": null,
+   "psnPercent": 0.02,
+   "summary": "Complete Headliners - the Dimez' launch party at Club VYB.",
+   "steps": [
+    {
+     "text": "Requirement: complete the main mission Headliners.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "Headliners is mission 102 in MyGTA's order, set in the Vice City chapter and played as Jason and Lucia.",
+     "cites": [
+      106
+     ]
+    },
+    {
+     "text": "The Dimez perform at VYB during a launch party, and the mission counts toward 100% completion.",
+     "cites": [
+      114
+     ]
+    },
+    {
+     "text": "Key objective: locate Real Dimez in the VYB green room; Promptowy's walkthrough starts the mission at Club VYB.",
+     "cites": [
+      105
+     ]
+    },
+    {
+     "text": "The DWNFALL bronze pops on mission completion.",
+     "cites": [
+      105,
+      107
+     ]
+    },
+    {
+     "text": "Hidden: yes - GTA6 Field Guide's trophy page confirms it is masked until earned.",
+     "cites": [
+      107,
+      75
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 12,
+   "name": "Hi-Jacked",
+   "description": "Complete VCIA Takedown.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Story",
+   "psnTarget": null,
+   "psnPercent": 0.02,
+   "summary": "Complete VCIA Takedown - the airport heist, run quiet or fail.",
+   "steps": [
+    {
+     "text": "Requirement: complete VCIA Takedown, the airport heist.",
+     "cites": [
+      1,
+      2,
+      108
+     ]
+    },
+    {
+     "text": "The heist unlocks after a long chain of setup missions marked VCIA Takedown in your story list; the last setup is Heist Plans in Place.",
+     "cites": [
+      110
+     ]
+    },
+    {
+     "text": "Promptowy documents the setup chain - including the confirmed Fully Catered task - and the heist's late-story placement.",
+     "cites": [
+      109
+     ]
+    },
+    {
+     "text": "Stealth matters: get spotted and the mission fails with JASON BLEW THE HEIST. Keep to cover on the way to the network terminal.",
+     "cites": [
+      108
+     ]
+    },
+    {
+     "text": "Later beats include keeping heat low and hiding Omar; the heist pays $250,000.",
+     "cites": [
+      108
+     ]
+    },
+    {
+     "text": "Completion earns the hidden Hi-Jacked bronze.",
+     "cites": [
+      1,
+      108,
+      75
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 13,
+   "name": "Snow Storm",
+   "description": "Complete Operation Savage Glory.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Story",
+   "psnTarget": null,
+   "psnPercent": 0.02,
+   "summary": "Complete Operation Savage Glory, a late mission in the final chapter.",
+   "steps": [
+    {
+     "text": "Requirement: complete Operation Savage Glory.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "The mission sits in the final chapter: FinalBoss's walkthrough runs from Giorgio's first job through Operation Savage Glory to Protective Custody and The End of the Road.",
+     "cites": [
+      111
+     ]
+    },
+    {
+     "text": "Objectives include handling both shipments, then returning and lying low.",
+     "cites": [
+      113
+     ]
+    },
+    {
+     "text": "Promptowy's mission guide tracks the featured characters and setting, and confirms the Snow Storm trophy reward.",
+     "cites": [
+      112
+     ]
+    },
+    {
+     "text": "tech4gamers explicitly marks the mission's unlock requirement and playable character as not confirmed - treat any claim about prerequisites as UNCONFIRMED (see callout).",
+     "cites": [
+      113
+     ]
+    },
+    {
+     "text": "The trophy pops on completion; it is hidden like the rest of the story set.",
+     "cites": [
+      1,
+      75
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": [
+    {
+     "type": "unconfirmed",
+     "title": "Prerequisites not confirmed",
+     "text": "tech4gamers marks this mission's unlock requirement and playable character as not yet confirmed. The only confirmed fact is the official one: complete Operation Savage Glory to earn Snow Storm.",
+     "cites": [
+      113,
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "name": "A Long Road",
+   "description": "Attain 100% Completion.",
+   "grade": "gold",
+   "hidden": false,
+   "kind": "Completion",
+   "psnTarget": 100,
+   "psnPercent": 0.0,
+   "summary": "Reach 100% completion - the checklist gold that the platinum also demands.",
+   "steps": [
+    {
+     "text": "Requirement: attain 100% completion.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "The 100% checklist unlocks after the story; SixShore counts 35 requirements in three groups.",
+     "cites": [
+      89
+     ]
+    },
+    {
+     "text": "You do not need every collectible: any 15 of the 18 meditation sessions count, and five of Kenton's seven treasure sets satisfy the checklist.",
+     "cites": [
+      59,
+      66
+     ]
+    },
+    {
+     "text": "eGamers publishes a skip-list guide naming which collectibles you can leave behind - and the one trophy you cannot afford to miss.",
+     "cites": [
+      20
+     ]
+    },
+    {
+     "text": "Work from a full checklist: PowerPyx, IGN, GTABase (interactive), Game8's wiki and PowerPyx's collectible database all track the requirements.",
+     "cites": [
+      4,
+      31,
+      42,
+      28,
+      8
+     ]
+    },
+    {
+     "text": "100% is the long tail - activities, collectibles and challenges all feed it, and the platinum requires it.",
+     "cites": [
+      77,
+      3
+     ]
+    },
+    {
+     "text": "Track each requirement group in this app's checklist so nothing is double-counted or forgotten.",
+     "cites": [
+      4,
+      42
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": [
+    {
+     "type": "note",
+     "title": "Story mission counts disagree",
+     "text": "PC Gamer lists 91 story missions across five chapters; TalkEsport says 93; Leonida-Intel reports GTABase's count as 122. The guides do not reconcile the difference, so this guide works from the requirement lists (35 items per SixShore) rather than any single mission total.",
+     "cites": [
+      83,
+      88,
+      78,
+      89
+     ]
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "name": "Cunning Stunts",
+   "description": "Complete 250 Stunts.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "Activities",
+   "psnTarget": 250,
+   "psnPercent": 0.0,
+   "summary": "Perform 250 stunts - jumps, bridge flights and more - out of the 397 the guides catalog.",
+   "steps": [
+    {
+     "text": "Requirement: complete 250 stunts.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "The guides catalog 397 stunts in total, so the trophy leaves plenty of headroom - you can skip the awkward ones.",
+     "cites": [
+      21,
+      24
+     ]
+    },
+    {
+     "text": "Stunt jumps are the backbone: ShowGamer maps 130 jump locations, and IGN maintains a jump list.",
+     "cites": [
+      63,
+      33
+     ]
+    },
+    {
+     "text": "Under-bridge flights count as stunts too; IGN tracks them separately.",
+     "cites": [
+      34
+     ]
+    },
+    {
+     "text": "100% completion asks for more than the trophy: GTAFinder's guide targets 300 stunts, and eGamers' stunt guide covers the 100% target.",
+     "cites": [
+      48,
+      21
+     ]
+    },
+    {
+     "text": "Spread stunts across normal travel - most jumps sit along routes you will drive anyway; the location guides above mark them on maps. (Our advice.)",
+     "cites": [
+      63,
+      33
+     ]
+    },
+    {
+     "text": "Stunts are one of the nine activity types, so this grind also ticks Master of None.",
+     "cites": [
+      65
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 16,
+   "name": "Master of None",
+   "description": "Try each type of activity once.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "Activities",
+   "psnTarget": 9,
+   "psnPercent": 0.0,
+   "summary": "Try each of the nine activity types once - a single attempt at each is enough.",
+   "steps": [
+    {
+     "text": "Requirement: try each type of activity once.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "SixthStar lists the nine tracked types: fishing, hunting, golf, pool, basketball, video games, racing, shooting ranges and stunts.",
+     "cites": [
+      65
+     ]
+    },
+    {
+     "text": "The game tracks them under Progress - Activities; one attempt at each flips the trophy.",
+     "cites": [
+      65,
+      15
+     ]
+    },
+    {
+     "text": "No wins or scores are needed - showing up and playing once counts.",
+     "cites": [
+      15,
+      65
+     ]
+    },
+    {
+     "text": "Sweep them as you encounter each type; several feed other trophies (fishing - Baited My Tackle, ranges - The Shootist, racing - Earn Cash, Not Kudos, stunts - Cunning Stunts, video games - Stick Fiddler).",
+     "cites": [
+      65,
+      15
+     ]
+    },
+    {
+     "text": "Check the Activities tracker after each new minigame so you know which types remain.",
+     "cites": [
+      65
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 17,
+   "name": "The Shootist",
+   "description": "Earn a gold medal in all Shooting Range challenges.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "Activities",
+   "psnTarget": 42,
+   "psnPercent": 0.0,
+   "summary": "Gold-medal all 42 shooting-range challenges.",
+   "steps": [
+    {
+     "text": "Requirement: earn a gold medal in every Shooting Range challenge.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "There are 42 challenges in total; GTA6Locations and PowerPyx both track the full set.",
+     "cites": [
+      51,
+      6
+     ]
+    },
+    {
+     "text": "The range GTA6Locations documents is at Griffin & Rodgers Ranch.",
+     "cites": [
+      51
+     ]
+    },
+    {
+     "text": "Replay challenges until each shows gold; the guides list every challenge so you can tick them off one by one.",
+     "cites": [
+      6,
+      51
+     ]
+    },
+    {
+     "text": "Shooting ranges are one of the nine activity types, so your first visit also ticks Master of None.",
+     "cites": [
+      65
+     ]
+    },
+    {
+     "text": "Keep a per-challenge tally in this tracker; 42 golds is a grind, not a skill wall. (Our advice.)",
+     "cites": [
+      6,
+      51
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 18,
+   "name": "Top Fun",
+   "description": "Win a Top Fun Drone Race at every location.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "Activities",
+   "psnTarget": 14,
+   "psnPercent": 0.0,
+   "summary": "Win a Top Fun drone race at each of the 14 locations.",
+   "steps": [
+    {
+     "text": "Requirement: win a Top Fun Drone Race at every location.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "There are 14 Top Fun locations; SweatSchool and PowerPyx map them all.",
+     "cites": [
+      49,
+      7
+     ]
+    },
+    {
+     "text": "The same stations host 42 time trials, but the trophy asks for a race win at each location - not every time trial.",
+     "cites": [
+      49,
+      1
+     ]
+    },
+    {
+     "text": "Visit each station and enter its race; one win per location is enough.",
+     "cites": [
+      7,
+      36
+     ]
+    },
+    {
+     "text": "IGN's drone guide covers the activity if a station gives you trouble.",
+     "cites": [
+      36
+     ]
+    },
+    {
+     "text": "Tick locations off in this tracker as you win them.",
+     "cites": [
+      49,
+      7
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 19,
+   "name": "Earn Cash, Not Kudos",
+   "description": "Win 20 different races.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "Activities",
+   "psnTarget": 20,
+   "psnPercent": 0.0,
+   "summary": "Win 20 different races - repeats of the same event do not count.",
+   "steps": [
+    {
+     "text": "Requirement: win 20 different races.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "TechWiser catalogs 39 races across six dedicated locations - nearly twice as many events as you need.",
+     "cites": [
+      27
+     ]
+    },
+    {
+     "text": "Wins must come from 20 different races; re-winning one you already won adds nothing.",
+     "cites": [
+      72
+     ]
+    },
+    {
+     "text": "Pick events you can win consistently; the payouts also fund the spending trophies later. (Our advice.)",
+     "cites": [
+      27
+     ]
+    },
+    {
+     "text": "Racing is one of the nine activity types, so your first race ticks Master of None too.",
+     "cites": [
+      65
+     ]
+    },
+    {
+     "text": "Track which events you have won in this tracker so you do not double up.",
+     "cites": [
+      72,
+      27
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 20,
+   "name": "Baited My Tackle",
+   "description": "Beat Cal in a fishing challenge.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "Activities",
+   "psnTarget": null,
+   "psnPercent": 6.37,
+   "summary": "Beat Cal's fishing record - a Stoplight Parrotfish over 2 lb.",
+   "steps": [
+    {
+     "text": "Requirement: beat Cal in a fishing challenge.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "You first fish on Cal's boat during Recalibration, a Chapter 1 story mission; Cal later runs his own challenge.",
+     "cites": [
+      96
+     ]
+    },
+    {
+     "text": "After the mission Feng Shui, Cal texts you a fishing spot.",
+     "cites": [
+      14
+     ]
+    },
+    {
+     "text": "The challenge: catch a Stoplight Parrotfish over 2 lb inside the marked purple zone.",
+     "cites": [
+      14,
+      52
+     ]
+    },
+    {
+     "text": "The challenge runs through the Catch a Bigger Fish side mission, which GTABase walks through step by step.",
+     "cites": [
+      41
+     ]
+    },
+    {
+     "text": "Beat the weight and the trophy pops; the GTA Wiki tracks the same unlock.",
+     "cites": [
+      74,
+      14
+     ]
+    },
+    {
+     "text": "Fishing is one of the nine activity types, so this also ticks Master of None.",
+     "cites": [
+      65
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 21,
+   "name": "Stick Fiddler",
+   "description": "Complete an arcade game.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "Activities",
+   "psnTarget": null,
+   "psnPercent": 1.17,
+   "summary": "Complete one game on an arcade machine.",
+   "steps": [
+    {
+     "text": "Requirement: complete an arcade game.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "GTA6Intel's trophy page states it plainly: finish a game on an arcade machine.",
+     "cites": [
+      71
+     ]
+    },
+    {
+     "text": "Arcade play is the video games activity type in the Progress tracker.",
+     "cites": [
+      65
+     ]
+    },
+    {
+     "text": "Any single completed game should do - the description names no specific cabinet.",
+     "cites": [
+      1,
+      71
+     ]
+    },
+    {
+     "text": "Completing it also ticks Master of None's video-games type.",
+     "cites": [
+      65,
+      71
+     ]
+    },
+    {
+     "text": "The indexed launch guides confirm the requirement but do not yet map cabinet locations; treat any specific venue claim as UNCONFIRMED (see callout).",
+     "cites": [
+      71,
+      65
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": [
+    {
+     "type": "unconfirmed",
+     "title": "Cabinet locations not mapped",
+     "text": "No indexed launch guide yet documents where arcade cabinets sit. The unlock itself is confirmed: finish one arcade game.",
+     "cites": [
+      71,
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "name": "Road to Rehabilitation",
+   "description": "Complete the final mission for Andy.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Side",
+   "psnTarget": null,
+   "psnPercent": 0.01,
+   "summary": "Finish Andy's Cellerica strand - rescue her in Puff Puff Pass.",
+   "steps": [
+    {
+     "text": "Requirement: complete the final mission for Andy.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "Andy only works with Lucia - run her strand as Lucia.",
+     "cites": [
+      68
+     ]
+    },
+    {
+     "text": "Her storyline is the Cellerica arc; FinalBoss walks through the whole questline.",
+     "cites": [
+      53
+     ]
+    },
+    {
+     "text": "Complete the strand's jobs in order until the finale unlocks.",
+     "cites": [
+      53,
+      11
+     ]
+    },
+    {
+     "text": "The finale is Puff Puff Pass: rescue Andy from the Cellerica warehouse and confront Cecilia.",
+     "cites": [
+      64
+     ]
+    },
+    {
+     "text": "Finishing Puff Puff Pass earns Road to Rehabilitation.",
+     "cites": [
+      64,
+      68
+     ]
+    },
+    {
+     "text": "The trophy is hidden; Allfound lists it among the secret side-story trophies.",
+     "cites": [
+      75
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 23,
+   "name": "This Was No Boat Accident",
+   "description": "Complete the final mission for Kenton.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Side",
+   "psnTarget": null,
+   "psnPercent": 0.01,
+   "summary": "Finish Kenton Rees' treasure-diving strand - the last shipwreck job.",
+   "steps": [
+    {
+     "text": "Requirement: complete the final mission for Kenton.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "Kenton Rees runs the Island Dreams dive shop in Key Lento; his strand opens with the Chapter 1 mission Island Dreams.",
+     "cites": [
+      50
+     ]
+    },
+    {
+     "text": "The work: dive the shipwrecks he marks and recover treasure with a metal detector.",
+     "cites": [
+      50
+     ]
+    },
+    {
+     "text": "There are seven treasure sets in total; HeistAtlas tracks them all.",
+     "cites": [
+      66
+     ]
+    },
+    {
+     "text": "Five sets satisfy the 100% checklist, but the trophy needs the strand's last job - do not stop at five.",
+     "cites": [
+      66
+     ]
+    },
+    {
+     "text": "Complete the final dive job and This Was No Boat Accident pops.",
+     "cites": [
+      66,
+      50
+     ]
+    },
+    {
+     "text": "Hidden trophy: Allfound lists it among the secret side-story trophies.",
+     "cites": [
+      75
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 24,
+   "name": "The Lone Rider",
+   "description": "Complete the final mission for Billy.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Side",
+   "psnTarget": null,
+   "psnPercent": 0.01,
+   "summary": "Finish Billy's motorcycle-club strand with the Hometown Heroes raid.",
+   "steps": [
+    {
+     "text": "Requirement: complete the final mission for Billy.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "Billy's strand is the motorcycle-club job line; Promptowy documents its unlocks, structure and payouts.",
+     "cites": [
+      62
+     ]
+    },
+    {
+     "text": "Work through the strand's missions in order.",
+     "cites": [
+      62,
+      11
+     ]
+    },
+    {
+     "text": "The finale is Hometown Heroes: raid a raceway and grab its trophy.",
+     "cites": [
+      58
+     ]
+    },
+    {
+     "text": "The Final Chapter gang ambushes the crew - fight them off and escape the sugar factory.",
+     "cites": [
+      58
+     ]
+    },
+    {
+     "text": "The job pays $10,000 and earns The Lone Rider.",
+     "cites": [
+      58
+     ]
+    },
+    {
+     "text": "Hidden trophy: part of the secret side-story set.",
+     "cites": [
+      75
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 25,
+   "name": "Strangers & Freaks",
+   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "Side",
+   "psnTarget": 8,
+   "psnPercent": 0.0,
+   "summary": "Finish eight stranger mission strands across Leonida - which strands count is disputed.",
+   "steps": [
+    {
+     "text": "Requirement: complete 8 mission strands for strangers across the state of Leonida.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "A strand means a contact's full questline, not just its first job; MyGTA lists every strand and Indiatimes profiles the stranger characters.",
+     "cites": [
+      86,
+      93
+     ]
+    },
+    {
+     "text": "Once started, a strand stays available even after the story ends - no rush.",
+     "cites": [
+      39
+     ]
+    },
+    {
+     "text": "Which strands count toward the eight is reported differently: NeuralBoost names seven that do not count, while GTABase's list only partially overlaps. See the callout.",
+     "cites": [
+      46,
+      39
+     ]
+    },
+    {
+     "text": "The five contact finales (Andy, Kenton, Billy, Randy, Tyrone) have their own trophies; whether they also count here is exactly what the sources disagree on.",
+     "cites": [
+      46,
+      39
+     ]
+    },
+    {
+     "text": "Safest line: finish at least eight full strands beyond the disputed ones, and watch the in-game counter. (Our call.)",
+     "cites": [
+      46,
+      86
+     ]
+    },
+    {
+     "text": "Track finished strands in this tracker; the silver pops at eight counted completions.",
+     "cites": [
+      1,
+      86
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": [
+    {
+     "type": "sources-differ",
+     "title": "Which strands count toward the 8?",
+     "text": "Version A - NeuralBoost: seven strands do not count (Shirley, Billy, Andy, Yasmani, Tyrone, Eddie Acosta, Moses). Version B - GTABase: names the same four counting strands but differs on six of the seven exclusions. The lists are not reconciled. Our call: complete eight-plus full strands, prioritising contacts without a dedicated finale trophy, and verify against the in-game counter.",
+     "cites": [
+      46,
+      39,
+      86
+     ]
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "name": "Supply & Demand",
+   "description": "Complete the final mission for Randy.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Side",
+   "psnTarget": null,
+   "psnPercent": 0.0,
+   "summary": "Finish Randy's Wish List - 16 high-end cars delivered.",
+   "steps": [
+    {
+     "text": "Requirement: complete the final mission for Randy.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "Randy's strand is Randy's Wish List: a series of high-end car jobs.",
+     "cites": [
+      91
+     ]
+    },
+    {
+     "text": "It opens in Chapter 3 (PixelForgeGuides' numbering) with the mission that hands you the Key Cloner.",
+     "cites": [
+      91
+     ]
+    },
+    {
+     "text": "The wish list runs to 16 high-end cars; deliver them all.",
+     "cites": [
+      91
+     ]
+    },
+    {
+     "text": "Completing the list's final job earns Supply & Demand.",
+     "cites": [
+      91,
+      1
+     ]
+    },
+    {
+     "text": "Hidden trophy: part of the secret side-story set.",
+     "cites": [
+      75
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 27,
+   "name": "Spin On This!",
+   "description": "Complete the final mission for Tyrone.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "Side",
+   "psnTarget": null,
+   "psnPercent": 0.01,
+   "summary": "Finish Tyrone's Kitty Litter strand - raid the motel lab in Spin On This.",
+   "steps": [
+    {
+     "text": "Requirement: complete the final mission for Tyrone.",
+     "cites": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "Tyrone's strand is Take Out Kitty Litter: destroy the synthetic labs across Leonida.",
+     "cites": [
+      40
+     ]
+    },
+    {
+     "text": "FinalBoss maps 12 lab locations; destroy enough of them and gather the information Tyrone needs.",
+     "cites": [
+      54,
+      92
+     ]
+    },
+    {
+     "text": "The finale unlocks once enough labs are down; it starts at a diner on the outskirts.",
+     "cites": [
+      92,
+      40
+     ]
+    },
+    {
+     "text": "In Spin On This, Jason raids the motel synthetics lab, blows the vats and chases down Rocky.",
+     "cites": [
+      57
+     ]
+    },
+    {
+     "text": "GTABase's mission guide lists the objectives: go to the motel, find the lab, finish the raid.",
+     "cites": [
+      40
+     ]
+    },
+    {
+     "text": "The hidden bronze pops on completion; 6Charts confirms it is hidden.",
+     "cites": [
+      70
+     ]
+    }
+   ],
+   "flags": [],
+   "callouts": []
+  },
+  {
+   "id": 28,
+   "name": "Positive Mental Attitude",
+   "description": "Meditate at every spot across Leonida.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "Collectibles",
+   "psnTarget": 18,
+   "psnPercent": 0.01,
+   "summary": "Meditate at every spot - all 18 sessions, including the one that closes with Chapter 1.",
+   "steps": [
+    {
+     "text": "Requirement: meditate at every spot across Leonida - 18 sessions in total.",
+     "cites": [
+      1,
+      2,
+      59
+     ]
+    },
+    {
+     "text": "The 18 sessions come from 10 spots: Jason's balcony counts once, eight outdoor spots count twice (once as Jason, once as Lucia), and the summit spot counts once.",
+     "cites": [
+      13,
+      43
+     ]
+    },
+    {
+     "text": "Chapter 1 window: after the main mission Down to Earth, at Jason's house in Key Lento, Lucia invites you to meditate. Accept it before Chapter 1 ends.",
+     "cites": [
+      3,
+      94,
+      60,
+      98
+     ]
+    },
+    {
+     "text": "At the eight outdoor spots, meditate as both protagonists - each character's session is tracked separately.",
+     "cites": [
+      61,
+      99
+     ]
+    },
+    {
+     "text": "The summit spot is a single session.",
+     "cites": [
+      13
+     ]
+    },
+    {
+     "text": "100% completion accepts any 15 of the 18, but this trophy demands all 18 - do not skip sessions just because the checklist is satisfied.",
+     "cites": [
+      59,
+      99,
+      100
+     ]
+    },
+    {
+     "text": "Track sessions in this app's counter. If you missed the balcony window, the missable callout below explains the risk - a fresh save may be the only fix.",
+     "cites": [
+      79,
+      29
+     ]
+    }
+   ],
+   "flags": [
+    "possibly-missable",
+    "sources-differ"
+   ],
+   "callouts": [
+    {
+     "type": "missable-window",
+     "title": "The Chapter 1 balcony window",
+     "text": "One meditation session lives at Jason's house in Key Lento and closes when Chapter 1 ends (PowerPyx, OutputLag, Bloxodes, Game-Checklists). Guides disagree on whose balcony it is: PowerPyx, OutputLag and games.gg say Jason's balcony; FinalBoss and KingyWiki call it Lucia's; NeuralBoost describes a meditation with Lucia at Jason's house. The prompt comes after Down to Earth - do it when offered, whoever is standing there. Missing it is the only permanently missable trophy risk on the list.",
+     "cites": [
+      3,
+      5,
+      13,
+      43,
+      79,
+      29,
+      55,
+      80,
+      98,
+      94,
+      60
+     ]
+    },
+    {
+     "type": "sources-differ",
+     "title": "Is the Chapter 1 session required?",
+     "text": "Version A - the launch guides (PowerPyx, OutputLag, GameMapa, games.gg, Promptowy, Bloxodes) count the balcony session among the 18 and flag it missable: 1 balcony + 8 spots x 2 characters + 1 summit = 18, so skipping it caps you at 17. Version B - tester reports in an r/Trophies launch thread say there is no confirmation the balcony session is essential, with players reaching 18 without it; the thread notes PowerPyx counts it toward the counter but the necessity is unverified. Our call: take the Chapter 1 session either way. It costs seconds, and if Version A is right it is the difference between a platinum and a dead save.",
+     "cites": [
+      3,
+      13,
+      59,
+      43,
+      61,
+      79,
+      97
+     ]
+    }
+   ]
+  }
+ ]
+}
